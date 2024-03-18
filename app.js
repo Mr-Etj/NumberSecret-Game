@@ -3,7 +3,7 @@ let limite = 100;
 let numeroSecreto = numeroAleatorio();
 let tentativas = 1;
 let text = `Escolha um número entre 1 a ${limite}`
-console.log("Créditos ao Copêrnico")
+console.log("Créditos ao Cleber")
 console.log("FábioLinux é Foda")
 console.log("Achou Reginaldo?")
 
