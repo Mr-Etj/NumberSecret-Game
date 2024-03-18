@@ -5,6 +5,7 @@ let tentativas = 1;
 let text = `Escolha um número entre 1 a ${limite}`
 console.log("Créditos ao Copêrnico")
 console.log("FábioLinux é Foda")
+console.log("Bruno Henriques")
 
 
 function exibirTexto(tag, texto) {
