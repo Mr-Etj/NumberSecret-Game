@@ -5,7 +5,7 @@ let tentativas = 1;
 let text = `Escolha um número entre 1 a ${limite}`
 console.log("Créditos ao Cleber")
 console.log("FábioLinux é Foda")
-console.log("Nescau é melhor que Toddy")
+console.log("Toddy é melhor que Nescau")
 
 
 function exibirTexto(tag, texto) {
@@ -15,7 +15,7 @@ let campo = document.querySelector(tag);
 }
 
 function mensagemInicial() {
-    exibirTexto('h1', 'Jogo do número secreto');
+    exibirTexto('h1', 'número secreto');
     exibirTexto('p', text);
 }
 
