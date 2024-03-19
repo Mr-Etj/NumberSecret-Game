@@ -15,7 +15,7 @@ let campo = document.querySelector(tag);
 }
 
 function mensagemInicial() {
-    exibirTexto('h1', 'Número Secreto');
+    exibirTexto('h1', 'Jogo do número secreto');
     exibirTexto('p', text);
 }
 
