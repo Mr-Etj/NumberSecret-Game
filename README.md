@@ -1,7 +1,7 @@
-<h1>Jogo do número secreto</h1>
+<h1 align="center"> Número Secreto </h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto de um Jogo de adivinhação, é bem simples mas é o primeiro de muitos.</p>
+<p>Projeto sobre um jogo de adivinhação, meu primeiro projeto no GitHub.</p>
 
 ## �� Tecnologias
 <div>
@@ -11,9 +11,16 @@
 </div>
 
 
+<h1>Status</h1>
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-![Mr-Etj criou isso aqui](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvURAwBSJrz-a58u0mj4jGMweVry5MWbVXWHsKHy8LqCQjUoC6)
+![Jogo Foda](https://i.imgur.com/uDL6flN.png)
+
+# Autor
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/163701086?v=4" width=115><br><sub>Cleber ET Junior</sub>](https://github.com/Mr-Etj) |
+| :---: |
 
 
 ![Snake animation](https://github.com/Mr-Etj/Mr-Etj/blob/output/github-contribution-grid-snake.svg)
