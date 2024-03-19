@@ -14,3 +14,6 @@
 
 
 ![Mr-Etj criou isso aqui](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvURAwBSJrz-a58u0mj4jGMweVry5MWbVXWHsKHy8LqCQjUoC6)
+
+
+![Snake animation](https://github.com/Mr-Etj/Mr-Etj/blob/output/github-contribution-grid-snake.svg)
