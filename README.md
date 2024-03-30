@@ -1,7 +1,7 @@
 <h1 align="center"> Número Secreto </h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto sobre um jogo de adivinhação, meu primeiro projeto no GitHub.</p>
+<p>Projeto sobre um jogo de adivinhação envolvendo um número secreto.</p>
 
 ## �� Tecnologias
 <div>
@@ -21,6 +21,3 @@
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/163701086?v=4" width=115><br><sub>Cleber ET Junior</sub>](https://github.com/Mr-Etj) |
 | :---: |
-
-
-![Snake animation](https://github.com/Mr-Etj/Mr-Etj/blob/output/github-contribution-grid-snake.svg)
